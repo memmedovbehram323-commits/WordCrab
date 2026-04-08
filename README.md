@@ -19,7 +19,7 @@ WordCrab istifadəçilərə ingilis sözlərini öyrənmək üçün hazırlanmı
 
 ## 🔗 Demo
 Layihəni buradan yoxlaya bilərsiniz:
-https://username.github.io/repo-name/
+https://github.com/memmedovbehram323-commits/WordCrab.git
 
 ## 🎯 Məqsəd
 İstifadəçilərin sözləri daha tez və uzunmüddətli yadda saxlamasına kömək etmək.
